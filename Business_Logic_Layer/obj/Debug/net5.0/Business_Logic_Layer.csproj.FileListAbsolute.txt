@@ -1,0 +1,17 @@
+C:\Users\gb141\source\repos\Employee_Project_API\Business_Logic_Layer\bin\Debug\net5.0\Business_Logic_Layer.deps.json
+C:\Users\gb141\source\repos\Employee_Project_API\Business_Logic_Layer\bin\Debug\net5.0\Business_Logic_Layer.dll
+C:\Users\gb141\source\repos\Employee_Project_API\Business_Logic_Layer\bin\Debug\net5.0\ref\Business_Logic_Layer.dll
+C:\Users\gb141\source\repos\Employee_Project_API\Business_Logic_Layer\bin\Debug\net5.0\Business_Logic_Layer.pdb
+C:\Users\gb141\source\repos\Employee_Project_API\Business_Logic_Layer\obj\Debug\net5.0\Business_Logic_Layer.csproj.AssemblyReference.cache
+C:\Users\gb141\source\repos\Employee_Project_API\Business_Logic_Layer\obj\Debug\net5.0\Business_Logic_Layer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gb141\source\repos\Employee_Project_API\Business_Logic_Layer\obj\Debug\net5.0\Business_Logic_Layer.AssemblyInfoInputs.cache
+C:\Users\gb141\source\repos\Employee_Project_API\Business_Logic_Layer\obj\Debug\net5.0\Business_Logic_Layer.AssemblyInfo.cs
+C:\Users\gb141\source\repos\Employee_Project_API\Business_Logic_Layer\obj\Debug\net5.0\Business_Logic_Layer.csproj.CoreCompileInputs.cache
+C:\Users\gb141\source\repos\Employee_Project_API\Business_Logic_Layer\obj\Debug\net5.0\Business_Logic_Layer.dll
+C:\Users\gb141\source\repos\Employee_Project_API\Business_Logic_Layer\obj\Debug\net5.0\ref\Business_Logic_Layer.dll
+C:\Users\gb141\source\repos\Employee_Project_API\Business_Logic_Layer\obj\Debug\net5.0\Business_Logic_Layer.pdb
+C:\Users\gb141\source\repos\Employee_Project_API\Business_Logic_Layer\bin\Debug\net5.0\Data_Access_Layer.dll
+C:\Users\gb141\source\repos\Employee_Project_API\Business_Logic_Layer\bin\Debug\net5.0\Entity_Layer.dll
+C:\Users\gb141\source\repos\Employee_Project_API\Business_Logic_Layer\bin\Debug\net5.0\Data_Access_Layer.pdb
+C:\Users\gb141\source\repos\Employee_Project_API\Business_Logic_Layer\bin\Debug\net5.0\Entity_Layer.pdb
+C:\Users\gb141\source\repos\Employee_Project_API\Business_Logic_Layer\obj\Debug\net5.0\Business_Logic_Layer.csproj.CopyComplete
